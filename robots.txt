@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://robotghost.co/sitemap.xml
